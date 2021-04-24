@@ -6,11 +6,7 @@
   "parserOptions": {
     "ecmaVersion": 2018
   },
-  "extends": [
-    "airbnb",
-    "prettier",
-    "eslint:recommended"
-  ],
+  "extends": ["airbnb", "prettier", "eslint:recommended"],
   "plugins": ["prettier"],
   "rules": {
     "prettier/prettier": [
